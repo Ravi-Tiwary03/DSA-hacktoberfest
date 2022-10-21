@@ -1,0 +1,5 @@
+Array: [1, 2, 3, 2, 1]
+Number of Identical Twins: 2
+Explanation:
+Identical Twins: [[1, 1], [2, 2]]
+Indexes: (0, 4), (1, 3)
